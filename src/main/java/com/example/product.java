@@ -7,7 +7,7 @@ public class product {
         return sku;
     }
 
-    public void setSku(String sku) {
+    public void setddddddSku(String sku) {
         this.sku = sku;
     }
 
