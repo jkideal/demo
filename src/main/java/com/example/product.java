@@ -1,17 +1,17 @@
 package com.example;
 
 public class product {
-    String skuu;
+    String sku;
 
     public String getSku() {
-        return skuu;
+        return sku;
     }
 
-    public void setSku(String sku) {
-        this.skuu = sku;
+    public void setddddddSku(String sku) {
+        this.sku = sku;
     }
 
-    public product(String skuu) {
-        this.skuu = skuu;
+    public product(String sku) {
+        this.sku = sku;
     }
 }
