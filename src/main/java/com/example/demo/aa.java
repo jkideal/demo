@@ -13,7 +13,7 @@ import java.util.stream.Stream;
 public class aa {
 
     @RequestMapping("java")
-    public String javaa(){
+    public String javaaa(){
 
 
         //map存储集合
